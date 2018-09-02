@@ -15,4 +15,8 @@ class Pokemon
     @@all
   end
 
+  def self.save
+
+  end 
+
 end
